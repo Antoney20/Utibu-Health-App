@@ -17,6 +17,24 @@ Utibu Health is a mobile application designed to facilitate the ordering of medi
 
 Utibu Health aims to improve the convenience and accessibility of healthcare services for patients with chronic conditions. By allowing remote ordering of medication, the app reduces the need for physical visits to the health facility, particularly for routine prescription refills. This enhances the overall patient experience and promotes better adherence to medication regimens.
 
+## Frontend
+
+The frontend of Utibu Health is developed to provide a user-friendly interface for patients to interact with the application. It allows users to browse medications, place orders, and receive confirmations. The frontend is developed using React Native and Expo.
+
+### Code Repository
+The frontend code is located in the main/default branch of the repository. You can access it [here](https://github.com/Antoney20/Utibu-Health-App.git).
+
+## Backend
+
+The backend of Utibu Health serves as the server-side component responsible for handling requests, managing data, and performing business logic. It provides API endpoints for user authentication, medication management, order processing, and more. The backend is implemented using Python and Django REST Framework.
+
+### Code Repository
+The backend code is located in the master branch of the repository. You can access it [here](https://github.com/Antoney20/Utibu-Health-App.git/tree/master).
+
+### API
+The backend exposes RESTful API endpoints to interact with the application. It utilizes Django REST Framework for building robust APIs. The API supports functionalities such as user registration, authentication, medication listing, order placement, and order processing.
+
+
 ## Setting Up
 
 To set up the Utibu Health app, follow these steps:
