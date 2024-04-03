@@ -1,10 +1,7 @@
 # Utibu-Health-App
 Utibu health is an inventory system that manages the stock of medication items, customer orders.
 
-
-# Utibu Health Mobile App
-
-Utibu Health is a mobile application designed to facilitate the ordering of medication remotely from a health facility. The app allows patients with chronic conditions such as HIV, diabetes, and hypertension to order their medication without visiting the facility physically. This README provides an overview of the functionalities, setup instructions, and other details about the app.
+It is a mobile application designed to facilitate the ordering of medication remotely from a health facility. The app allows patients with chronic conditions such as HIV, diabetes, and hypertension to order their medication without visiting the facility physically. This README provides an overview of the functionalities, setup instructions, and other details about the app.
 
 ## Features
 
